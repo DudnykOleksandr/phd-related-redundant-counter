@@ -1,0 +1,10 @@
+D:\documents\Visual Studio 2008\Projects\RedundantCounter\RedundantCounter\obj\Debug\ResolveAssemblyReference.cache
+D:\documents\Visual Studio 2008\Projects\RedundantCounter\RedundantCounter\bin\Debug\RedundantCounter.exe
+D:\documents\Visual Studio 2008\Projects\RedundantCounter\RedundantCounter\bin\Debug\RedundantCounter.pdb
+D:\documents\Visual Studio 2008\Projects\RedundantCounter\RedundantCounter\obj\Debug\RedundantCounter.exe
+D:\documents\Visual Studio 2008\Projects\RedundantCounter\RedundantCounter\obj\Debug\RedundantCounter.pdb
+D:\Documents\Навчання\Наука\Moddeling programs\RedundantCounter\RedundantCounter\RedundantCounter\obj\Debug\RedundantCounter.exe
+D:\Documents\Навчання\Наука\Moddeling programs\RedundantCounter\RedundantCounter\RedundantCounter\obj\Debug\RedundantCounter.pdb
+D:\Documents\Навчання\Наука\Moddeling programs\RedundantCounter\RedundantCounter\RedundantCounter\bin\Debug\RedundantCounter.exe
+D:\Documents\Навчання\Наука\Moddeling programs\RedundantCounter\RedundantCounter\RedundantCounter\bin\Debug\RedundantCounter.pdb
+D:\Documents\Навчання\Наука\Moddeling programs\RedundantCounter\RedundantCounter\RedundantCounter\obj\Debug\ResolveAssemblyReference.cache
